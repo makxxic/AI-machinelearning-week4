@@ -1,5 +1,4 @@
 # AI-machinelearning-week4
-AI applications in software engineering
 
 ## Table of Contents  
 1. [Project Title](#project-title)  
@@ -120,7 +119,5 @@ Documenting the full workflow (theoretical, practical and ethical) while staying
 Extend the predictive analytics task to a real software-engineering dataset (e.g., issues from GitHub) and multi-class (High/Medium/Low) priority prediction rather than binary.
 Integrate a CI/CD pipeline that automatically triggers the AI-test suite and predictive model upon pull requests.
 Develop a dashboard to visualise test results, model performance and bias/fairness metrics in real-time.
-
 Expand the AI tool proposal (DocuMind) into a working prototype plugin or web-app with live repository integration.
-
 Incorporate additional fairness tools and automated bias mitigation into the modelling workflow.
